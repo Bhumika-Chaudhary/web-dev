@@ -1,0 +1,6 @@
+body{
+    background-image:url("cute.jpg");
+    background-size:cover;
+    /* background-size:contain;
+    background-repeat:no-repeat; */
+}
